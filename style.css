@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    
+    text-align: center;
+}
+
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+
+.links:hover {
+    background-color: dodgerblue;
+}
+
+.links {
+    float: right;
+    color: beige;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
